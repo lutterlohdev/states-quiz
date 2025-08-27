@@ -1,5 +1,7 @@
 # States & Capitals Flashcard Quiz
 
+> **Live Demo:** [lutterlohdev.github.io/states-quiz](https://lutterlohdev.github.io/states-quiz/)
+
 A simple, clean, and mobile-friendly web application designed to help students learn the United States states and their capitals. This interactive flashcard quiz is perfect for studying on a tablet or computer.
 
 ## About The Project
@@ -22,7 +24,7 @@ The application allows users to quiz themselves in three different ways to reinf
 ## How To Use
 
 1. Clone the repository or download the files.
-2. Open the `index.html` file in any modern web browser (or visit states-quiz.pages.dev for the time being)
+2. Open the `index.html` file in any modern web browser, or visit [lutterlohdev.github.io/states-quiz](https://lutterlohdev.github.io/states-quiz/).
 3. Select a region to study (West or Southwest).
 4. Choose a quiz mode to begin.
 5. Click on the card to see the answer. Use the "Next" and "Prev" buttons to navigate through the flashcards.
